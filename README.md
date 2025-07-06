@@ -1,4 +1,4 @@
-# Authors: Ekaterina Cvekova & Nikola Kostadinov
+# Authors: Ekaterina Cvetkova & Nikola Kostadinov
 
 <br>
 
