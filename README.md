@@ -1,5 +1,8 @@
-# Ekaterina Cvekova
-# Nikola Kostadinov
+# Authors
+## Ekaterina Cvekova
+## Nikola Kostadinov
+
+<br>
 
 # CO2_project
 
