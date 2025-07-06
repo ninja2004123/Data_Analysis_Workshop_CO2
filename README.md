@@ -1,3 +1,7 @@
+# Ekaterina Cvetkova & Nikola Kostadinov
+
+<br>
+
 # CO2_project
 
 ### Data was collected from - https://gml.noaa.gov/ccgg/trends/data.html
